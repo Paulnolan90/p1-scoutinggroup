@@ -15,11 +15,12 @@ h1, h2 {
     color: #252525
 }
 #logo{
-    
     float: left;
     margin-left: 25px; 
-    width: 10%;
-    height: 184px;
+    width: 33%;
+}
+sup {
+    font-size: 40%;
 }
 #menu li {
     float: right;
@@ -39,10 +40,10 @@ h1, h2 {
 }
 
 
-#scouts-image {
+#flag-image {
     height: 600px;
     width: 100%;
-    background: url('../images/scouts-image.webp') no-repeat center center ;
+    background: url('../images/flag-image.webp') no-repeat center center ;
     /*animation for zoom effect*/
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -55,17 +56,23 @@ top: 44%;
 left: 43%;
 margin: -50px 0 0 -50px;
 }
-#centered-text h1,h2 {
-    color: aliceblue;
-    text-align: center;
-    font-size: xx-large;
+#centered-text h1{
+    text-shadow: 2px 2px rgb(18, 18, 19)
 }
 #centered-text h2 {
     color: blue;
     font-size: medium;
 }
+#centered-text h1,h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Roboto, sans-serif;
+    
+}
 
-#scouts-outer{
+
+#flag-outer{
     height: 600px;
     width: 100%;
     overflow: hidden;
