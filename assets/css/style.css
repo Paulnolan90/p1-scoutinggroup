@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Roboto&display=swap');
+
+body{
+    font-family: Merriweather, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+/*headings and logos*/
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525
+}
+#logo{
+    
+    float: left;
+    margin-left: 25px; 
+    width: 10%;
+    height: 184px;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+#menu a:hover{
+    border-bottom: 2px solid #433d3d;
+    font-size: 102%;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
+#scouts-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/scouts-image.webp') no-repeat center center ;
+    /*animation for zoom effect*/
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    text-align: center;
+}
+#centered-text {
+position: absolute;
+top: 44%;
+left: 43%;
+margin: -50px 0 0 -50px;
+}
+#centered-text h1,h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+}
+#centered-text h2 {
+    color: blue;
+    font-size: medium;
+}
+
+#scouts-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+  /*creates animation, change this to something better*/
+@keyframes hero-zoom 
+{
+from {
+    transform: scale(1);
+}
+
+to{
+    transform: scale(1.1);
+}
+}
