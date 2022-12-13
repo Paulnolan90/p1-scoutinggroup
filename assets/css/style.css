@@ -50,23 +50,31 @@ h3{
 }
 #menu a:hover{
     border-bottom: 2px solid #433d3d;
-    font-size: 100%;
+    border-top: 2px solid #433d3d;
+    color: #252525;
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
 
 
+
+
+
+
+
+/*Main image*/
+
 #flag-image {
     height: 1000px;
     width: 100%;
-    background: url('../images/flag-image-big.webp') no-repeat center center ;
+    background: url('../images/SwissBG.JPG') no-repeat center center ;
     /*animation for zoom effect*/
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
     text-align: center;
-    opacity: 75%;
+    opacity: 85%;
     margin-top: 0;
 }
 #flag-outer{
@@ -82,7 +90,9 @@ sup {
 position: absolute;
 top: 44%;
 left: 43%;
-margin: -50px 0 0 -50px;
+
+margin-left: auto;
+margin-right: auto;
 }
 
 #centered-text h2 {
@@ -98,6 +108,8 @@ margin: -50px 0 0 -50px;
 
 
 
+
+
   /*creates animation, change this to something better*/
 @keyframes hero-zoom 
 {
@@ -110,11 +122,39 @@ to{
 }
 }
 
-  /*Who we are section*/
+
+
+
+  /*Group Sections */
+
+  #group-paragraphs {
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    
+  }
+  #group-paragraphs p {
+    font-size: 16px;
+    width: 60%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+  }
+  #group-paragraphs h3 {
+    font-size: 30px;
+    padding-top: 2%;
+  }
+
+
+
+
+
 
   #groupsections{
     padding-top: 3%;
-    height: 900px;
+    height: 2500px;
   }
 
   #group{
@@ -146,21 +186,23 @@ to{
 
 
 .left-about-heading{
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right-about-heading{
-    width: 60%;
+    width: 100%;
     float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    padding-left: 10%;
 }
-.right-about-heading h2{
+
+.right-about-heading{
+    width: 100%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    padding-right: 10%;
+}
+.right-about-heading h3{
     text-align: left;
 }
 .right-about-heading p{
@@ -169,13 +211,15 @@ to{
 .left-about-heading, .right-about-heading {
     width: inherit;
 }
-.left-about-heading h2, .right-about-heading h2 {
+.left-about-heading h3, .right-about-heading h3 {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    
 } 
 .left-about-heading p, .right-about-heading p {
-    text-align: center;
-    padding: 0 20px;
+    text-align: left;
+    padding: 0 2px;
+    width: 100%;
 }
 
 
@@ -191,8 +235,51 @@ to{
     margin: 0 auto;
 }
 
-#circle-cover-bg{
+#circle-cover-beavers{
+    background: url('../images/beavers.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+#circle-cover-cubs{
     background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
+#circle-cover-scouts{
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+#circle-cover-ventures{
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+#dayTimes {
+    background-image: url('../images/dublin-city.webp') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 3%;
+   }
+   
+   #dayTimes div {
+   color: #fafafa;
+   background-color: #252525;
+   width: 20%;
+   height: 200px;
+   float: left;
+   padding: 30px 0 0 10;
+   text-align: center;
+   border: 1px solid white ;
+   box-sizing: border-box;
+   }
+   
+   #dayTimes h2 {
+       color: #fafafa
+   }
+   
