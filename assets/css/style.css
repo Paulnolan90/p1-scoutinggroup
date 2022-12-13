@@ -81,7 +81,7 @@ h3{
     height: 1000px;
     width: 100%;
     overflow: hidden;
-    position: center;
+   
 }
 sup {
     font-size: 40%;
@@ -272,7 +272,7 @@ to{
    width: 20%;
    height: 200px;
    float: left;
-   padding: 30px 0 0 10;
+   padding: 30px 0 0 5px;
    text-align: center;
    border: 1px solid white ;
    box-sizing: border-box;
