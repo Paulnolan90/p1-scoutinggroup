@@ -114,11 +114,11 @@ margin-right: auto;
 @keyframes hero-zoom 
 {
 from {
-    transform: scale(1);
+    transform: scale(1.2);
 }
 
 to{
-    transform: scale(1.1);
+    transform: scale(1);
 }
 }
 
@@ -154,7 +154,7 @@ to{
 
   #groupsections{
     padding-top: 3%;
-    height: 2900px;
+    height: 3000px;
   }
   #groupsections h1 {
     text-decoration: underline;
@@ -276,6 +276,7 @@ to{
    text-align: center;
    border: 1px solid white ;
    box-sizing: border-box;
+   
    }
    
    #dayTimes h2 {
