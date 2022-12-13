@@ -23,6 +23,12 @@ h1, h2 {
     letter-spacing: 4px;
     color: #252525
 }
+h3{
+    font-family: Roboto, sans-serif;
+    letter-spacing: 4px;
+    color: #252525;
+    font-size: x-large;
+}
 #logo{
     float: left;
     margin-left: 25px; 
@@ -52,15 +58,22 @@ h1, h2 {
 
 
 #flag-image {
-    height: 600px;
+    height: 1000px;
     width: 100%;
-    background: url('../images/flag-image.webp') no-repeat center center ;
+    background: url('../images/flag-image-big.webp') no-repeat center center ;
     /*animation for zoom effect*/
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
     text-align: center;
-    opacity: 83%;
+    opacity: 75%;
+    margin-top: 0;
+}
+#flag-outer{
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+    position: center;
 }
 sup {
     font-size: 40%;
@@ -84,12 +97,7 @@ margin: -50px 0 0 -50px;
 }
 
 
-#flag-outer{
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
+
   /*creates animation, change this to something better*/
 @keyframes hero-zoom 
 {
@@ -105,24 +113,25 @@ to{
   /*Who we are section*/
 
   #groupsections{
-    height: 700px;
+    padding-top: 3%;
+    height: 900px;
   }
 
   #group{
     text-align: center;
     margin: 20px 0;
-    font-size: 280%;
+    font-size: 250%;
 }
 
 #left-about {
-    padding-top: 30px;
+    padding-top: 20px;
     width: 33%;
     float: left;
     
 }
 
 #right-about {
-    padding: 30px;
+    padding: 20px;
     width: 33%;
     float: right;
     
@@ -152,10 +161,21 @@ to{
     margin-bottom: 50px;
 }
 .right-about-heading h2{
-    text-align: right;
+    text-align: left;
 }
 .right-about-heading p{
     text-align: right;
+}
+.left-about-heading, .right-about-heading {
+    width: inherit;
+}
+.left-about-heading h2, .right-about-heading h2 {
+    width: 100%;
+    text-align: center;
+} 
+.left-about-heading p, .right-about-heading p {
+    text-align: center;
+    padding: 0 20px;
 }
 
 
