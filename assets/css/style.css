@@ -352,7 +352,7 @@ to{
 }
 .signup-form {
     margin: 150px 10% 0 0;
-    color: #fff;
+    color: #fcfcfb;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 500px;
     position: absolute;
@@ -361,22 +361,22 @@ to{
 }
 
 .signup-form > h2 {
-    color: #fafafa;
+    color: #C5AFA0;
     margin-bottom: 20px;
 }
 
 .text-input {
     background: transparent;
-    color: #fafafa;
+    color: #C5AFA0;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
+    border: 1px solid #C5AFA0;
     border-radius: 2px;
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #C5AFA0;
 }
 
 .join-button {
@@ -385,12 +385,12 @@ to{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
+    background-color: #29524A;
+    color: #C5AFA0;
     display: block;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #f16c6b;
+    background-color: #C5AFA0;
+    color: #29524A;
 }
