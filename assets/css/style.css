@@ -161,6 +161,7 @@ to{
     padding-top: 1%;
     height: 2750px;
     background-color: #29524A;
+    border: solid 1px white;
   }
   #groupsections h1 {
     text-decoration: underline;
