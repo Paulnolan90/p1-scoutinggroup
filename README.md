@@ -21,7 +21,7 @@ The Website contains 3 pages with 8 features
 - __Home page big imagee__
 
   - The home page displays an image of mountains, with an overlay of the Irish scouting logo with “115th Ballinteer” and “expect the unexpected!” text appearing slowly to grab the user’s attention.
- - This image introduces the user to Ballinteer scouts with an animated image that zooms slowly away and fades in the text.
+  - This image introduces the user to Ballinteer scouts with an animated image that zooms slowly away and fades in the text.
 
 
 ![Home Page](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/MainImage.jpg)
@@ -49,7 +49,7 @@ The Website contains 3 pages with 8 features
 - __Find us Page__
 
   - The Find us page will present a google map, that will show where we are located in Ballinteer.
- - This section is of high importance as we are slightly hidden away from the road and this will make the user’s experience easier. It also shows our address plus Eircode.
+  - This section is of high importance as we are slightly hidden away from the road and this will make the user’s experience easier. It also shows our address plus Eircode.
  
 
 ![Find us](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Findus.jpg)
