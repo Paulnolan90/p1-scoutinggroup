@@ -6,16 +6,17 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The Website contains 3 pages with 8 features
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The navigation bar is featured on all three pages. It is identical on each and is set to be sticky for easier navigation throughout the site.
+  - The navigation bar contains the name of the website which is also a link back to the homepage. It also contains three links “Home” “Find us” & “Join the adventure!”. These links are responsive when hovered over to present an underline and overline that provides good feedback to the user that they are clicking the right place.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
+![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
 - __The landing page image__
 
