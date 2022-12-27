@@ -37,7 +37,7 @@ The Website contains 3 pages with 8 features
 
   - This section shows which group meetup on which day and what time they meet, all meetings are in Ballinteer scout den so I did not put the location as I have a separate “Find us” page.
 
-![Group Times](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Grouptimes.jpg)
+![Group Times](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/GroupTimes.jpg)
 
 
 - __The Footer__ 
