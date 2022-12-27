@@ -255,7 +255,27 @@ to{
 
 
 
-#circle-container{
+#circle-container1{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+}
+#circle-container2{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+#circle-container3{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+}
+#circle-container4{
     width: 400px;
     height: 400px;
     padding: 10px;
