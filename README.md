@@ -45,7 +45,7 @@ The Website contains 3 pages with 8 features
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/footer.jpg)
 
 - __Gallery__
 
