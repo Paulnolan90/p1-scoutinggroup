@@ -55,10 +55,11 @@ The Website contains 3 pages with 8 features
 ![Find us](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Findus.jpg)
 - __Find us Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to sign up for Ballinteer scouts and get a call back from one of the leaders depending on which section they choose in the form.
+  - The form asks for the parent’s details and the child’s details that they wish to get involved.
+ 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
+![Sign Up](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/SignUp.jpg)
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
