@@ -17,7 +17,14 @@ header {
     width: 100%;
   }
 
-h1, h2 {
+h1 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:#C5AFA0;
+    text-shadow: 2px 2px #030303;
+}
+h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -30,6 +37,14 @@ h3{
     font-size: x-large;
     text-shadow: 2px 2px #030303;
 }
+h5{
+    font-family: Roboto, sans-serif;
+    letter-spacing: 4px;
+    color: white;
+    font-size: x-large;
+    
+}
+
 #logo{
     float: left;
     width: 25%;
@@ -91,9 +106,10 @@ sup {
 #centered-text {
 position: absolute;
 top: 44%;
-left: 43%;
+text-align: center;
 margin-left: auto;
 margin-right: auto;
+width: 100%;
 }
 
 #centered-text h2 {
@@ -161,7 +177,6 @@ to{
     padding-top: 1%;
     height: 2750px;
     background-color: #29524A;
-    border: solid 1px white;
   }
   #groupsections h1 {
     text-decoration: underline;
@@ -288,7 +303,7 @@ to{
    float: left;
    padding: 30px 0 0 5px;
    text-align: center;
-   border: 1px solid white ;
+   
    box-sizing: border-box;
    
    }
@@ -335,12 +350,18 @@ to{
   
 #map {
     margin: auto;
-    width: 50%;
-    
+    width: 100%;
     padding-top: 5%;
-    padding-left: 22.5%;
-    
+    padding-left: 35%; 
+    background-color: #29524A;
+    height: 1200px;
+    padding-top: 3%;
 }
+#map p {
+    color: #C5AFA0;
+}
+
+
 
   /*Join up form page*/
 
@@ -395,3 +416,41 @@ to{
     background-color: #C5AFA0;
     color: #29524A;
 }
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+    #logo{
+       font-size: medium;
+    }
+    #groupsections{
+        height: 3000px
+      }
+}
+
+@media screen and (max-width: 715px) {
+  
+    #groupsections{
+        height: 3200px
+      }
+}
+@media screen and (max-width: 560px) {
+  
+    #groupsections{
+        height: 3400px
+      }
+
+}
+
+@media screen and (max-width: 560px) {
+  
+    #centered-text {
+        position: absolute;
+        top: 44%;
+        left: 23%;
+        margin-left: auto;
+        margin-right: auto;
+        }
+
+}
+
