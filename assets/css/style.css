@@ -2,7 +2,7 @@
 
 body{
     font-family: Merriweather, sans-serif;
-    font-weight: 300;
+    font-weight: 100;
     color: #3a3a3a;
     margin: 0;
 }
@@ -57,7 +57,6 @@ h5{
     margin-right: 30px;
     margin-top: 25px;
     letter-spacing: 4px;
-    
 }
 #menu a{
     text-decoration: none;
@@ -531,7 +530,10 @@ h2 {
         #group-paragraphs p{
             width: 100%;
         }
-
+        #menu a{
+            font-size: small;            
+        }
+      
   
     }
    
@@ -545,8 +547,19 @@ h2 {
          header {
             height: 55px;
          }
+         #menu a{
+            font-size: x-small;            
+        }
+        #logo{
+            text-align: left;
+            width: 100%;
+            padding-left: 1%;
+            padding-top: 2%;
+        }
       
     }
 
 
    
+
+ 
