@@ -23,7 +23,7 @@ The Website contains 3 pages with 8 features
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/MainImage.jpg)
 
 - __Club Ethos Section__
 
