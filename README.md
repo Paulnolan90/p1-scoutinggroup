@@ -18,26 +18,28 @@ The Website contains 3 pages with 8 features
 
 ![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
-- __The landing page image__
+- __Home page big imagee__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The home page displays an image of mountains, with an overlay of the Irish scouting logo with “115th Ballinteer” and “expect the unexpected!” text appearing slowly to grab the user’s attention.
+ - This image introduces the user to Ballinteer scouts with an animated image that zooms slowly away and fades in the text.
 
-![Landing Page](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/MainImage.jpg)
 
-- __Club Ethos Section__
+![Home Page](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/MainImage.jpg)
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __Our Groups Section__
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+  - The Groups section will give users information on the age range for our different groups within Ballinteer scouts, it will also give a small introduction to what each group does throughout the year.
+  - The user will also see images of each of the age groups having fun and enjoying themselves
 
+
+![Our Groups](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/OurGroups.jpg)
 - __Meetup Times section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/OurGroups.jpg)
+
 
 - __The Footer__ 
 
