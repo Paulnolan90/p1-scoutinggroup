@@ -13,7 +13,7 @@ header {
     top: 0;
     z-index: 999;
     background-color: white;
-    height: 60px;
+    height: 100px;
     width: 100%;
   }
 
@@ -351,11 +351,11 @@ to{
 #map {
     margin: auto;
     width: 100%;
-    padding-top: 5%;
-    padding-left: 35%; 
+    padding-top: 1%;
+    text-align: center;
     background-color: #29524A;
     height: 1200px;
-    padding-top: 3%;
+    
 }
 #map p {
     color: #C5AFA0;
@@ -426,7 +426,14 @@ to{
     #groupsections{
         height: 3000px
       }
+      header {
+          
+        height: 50px;
+        
+      }
 }
+
+
 
 @media screen and (max-width: 715px) {
   
@@ -434,23 +441,69 @@ to{
         height: 3200px
       }
 }
-@media screen and (max-width: 560px) {
+
+
+@media screen and (max-width: 570px) {
   
     #groupsections{
         height: 3400px
       }
 
 }
-
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 475px) {
   
-    #centered-text {
-        position: absolute;
-        top: 44%;
-        left: 23%;
-        margin-left: auto;
-        margin-right: auto;
-        }
+    #groupsections{
+        height: 3600px
+      }
+
+}
+@media screen and (max-width: 405px) {
+  
+    #groupsections{
+        height: 3700px
+      }
 
 }
 
+
+
+@media screen and (max-width: 1000px) {
+h2 {
+    font-size: medium;
+}
+
+}
+@media screen and (max-width: 1000px) {
+    h4 {
+        font-size: small;
+    }
+    
+    }
+
+@media screen and (max-width: 550px) {
+    #dayTimes div {
+        color: #29524A;
+        background-color:#29524A;
+        }
+        #dayTimes h2 {
+            color: #29524A
+        }
+        #centered-text h1,h2 { 
+             
+            text-shadow: 2px 2px #29524A;
+            
+           
+            
+            
+        }
+        
+        
+        }
+
+@media screen and (max-width: 900px) { 
+        .signup-form {
+            left: .5%;
+           
+        }
+        
+    }
