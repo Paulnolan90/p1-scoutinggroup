@@ -33,12 +33,11 @@ The Website contains 3 pages with 8 features
 
 
 ![Our Groups](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/OurGroups.jpg)
-- __Meetup Times section__
+- __Group Weekdays/Times__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section shows which group meetup on which day and what time they meet, all meetings are in Ballinteer scout den so I did not put the location as I have a separate “Find us” page.
 
-![Meetup Times](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/OurGroups.jpg)
+![Group Times](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Grouptimes.jpg)
 
 
 - __The Footer__ 
