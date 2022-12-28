@@ -107,8 +107,7 @@ width: 100%;
     font-size: medium;
 }
 #centered-text h1,h2 { 
-    color: #C5AFA0; 
-    text-shadow: 2px 2px #030303;
+    color: white; 
     text-align: center;
     font-size: xx-large;
     font-family: Roboto, sans-serif; 
@@ -525,7 +524,8 @@ to{
             color: #29524A
         }
         #centered-text h1,h2 {   
-            text-shadow: 2px 2px #29524A;  
+            text-shadow: 2px 2px #29524A; 
+            
         }
         
         
