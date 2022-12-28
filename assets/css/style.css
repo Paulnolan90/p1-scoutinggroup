@@ -461,7 +461,7 @@ to{
        font-size: medium;
     }
     #groupsections{
-        height: 2450px
+        height: 2500px
       }
       header {
           
@@ -469,6 +469,7 @@ to{
         
       }
 }
+
 
 
 
@@ -483,14 +484,14 @@ to{
 @media screen and (max-width: 570px) {
   
     #groupsections{
-        height: 2300px
+        height: 2800px
       }
 
 }
 @media screen and (max-width: 475px) {
   
     #groupsections{
-        height: 2500px
+        height: 2800px
       }
 
 }
@@ -504,7 +505,7 @@ to{
 @media screen and (max-width: 350px) {
   
     #groupsections{
-        height: 2700px
+        height: 2800px
       }
 
 }
@@ -513,17 +514,16 @@ to{
 
 
 @media screen and (max-width: 1000px) {
-h2 {
+    h2 {
     font-size: medium;
-}
-
-}
-@media screen and (max-width: 1000px) {
+    }
     h4 {
         font-size: small;
     }
-    
-    }
+
+}
+
+
 
 @media screen and (max-width: 550px) {
     #dayTimes div {
@@ -533,49 +533,56 @@ h2 {
         #dayTimes h2 {
             color: #29524A
         }
-        #centered-text h1,h2 { 
-             
-            text-shadow: 2px 2px #29524A;
-            
-           
-            
-            
+        #centered-text h1,h2 {   
+            text-shadow: 2px 2px #29524A;  
         }
         
         
-        }
+     }
 
-@media screen and (max-width: 900px) { 
-        .signup-form {
-            left: .5%;
-           
-        }
-        
-    }
 
 
  @media screen and (max-width: 900px) { 
-    #circle-container{
+    #circle-container1{
         width: 300px;
         height: 300px;
         padding: 10px;
         margin: 0 auto;
     }
+    #circle-container2{
+        width: 300px;
+        height: 300px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    #circle-container3{
+        width: 300px;
+        height: 300px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    #circle-container4{
+        width: 300px;
+        height: 300px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    #group-paragraphs p{
+        width: 100%;
+    }
+    #menu a{
+        font-size: small;            
+    }
+    .signup-form {
+        left: .5%;
+
+    }
         
     }
 
-    @media screen and (max-width: 900px) { 
-        #group-paragraphs p{
-            width: 100%;
-        }
-        #menu a{
-            font-size: small;            
-        }
-      
-  
-    }
+
    
-    @media screen and (max-width: 400px) {
+@media screen and (max-width: 400px) {
         #logo{
            font-size: small;
         }
