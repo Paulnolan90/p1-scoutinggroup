@@ -90,7 +90,6 @@ h5{
     animation-duration: 5s;
     animation-fill-mode: forwards;
     text-align: center;
-    
     margin-top: 0;
 }
 #flag-outer{
@@ -435,6 +434,25 @@ to{
     background-color: #C5AFA0;
     color: #29524A;
 }
+
+
+/* 404 page big image */
+
+.error-outer {
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+   
+}
+.error-image {
+    height: 1000px;
+    width: 100%;
+    background: url('../images/Error404.jpg');
+    text-align: center;
+    margin-top: 0;
+}
+
+
 
 /* media queries */
 
