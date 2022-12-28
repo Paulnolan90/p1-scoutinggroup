@@ -274,9 +274,9 @@ In order of appearance:
 ### Code
 
 In order of appearance:
-- For the text fading in i read through and implemented this tutrial https://blog.hubspot.com/website/css-fade-in#text-transition
-- To add the google map to my Find us page I read through this tutorial https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/
-- For the sign up form I rewatched the tutorial Love Running done by Code institute. https://code-institute-org.github.io/love-running-2.0/index.html 
+- For the text fading in i read through and implemented this tutrial [HubSpot](https://blog.hubspot.com/website/css-fade-in#text-transition)
+- To add the google map to my Find us page I read through this tutorial [Uni of Maine](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- For the sign up form I rewatched the tutorial Love Running done by Code institute. [Code Institute](https://code-institute-org.github.io/love-running-2.0/index.html)
 
 ### Content 
 
