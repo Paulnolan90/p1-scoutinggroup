@@ -156,6 +156,29 @@ In addition, you may also use this section to discuss plans for additional featu
 - Canva palette generator
 - GIMP image editing software
 
+## Design
+
+### Design Choices
+The main focus when desigining the website was for easy navigation, after completeing this I wanted to make sure that it looked modern whilst also looking slihghtly outdoorsy as it is a scout group after all.
+
+### Colours
+The colour scheme was picked to represent the outdoor aspect of the group while also representing the colors used on ballinteers neckerchief.
+
+### Fonts
+Merriweather was used for the headings while Robotto was used in the paragraphs.
+
+### Structure
+
+The website was designed in a traditional way with the logo to top left and the navigation links to the far right, the navigation links were designed with an underline+overline when hovered over so that they are extremely responsive.
+
+The Navigation bar turns into a "burger" menu when the viewed on a mobile screen which when clicked slides across the screeen to reveal the 3 options.
+
+The webiste has 3 pages:
+1. a home page with a big image with text appearing to capture the user.
+2. a find us page that shows our location on a google map.
+3. a form page that allows parents to submit a form with their details plus their childs for a call back from a leader.
+
+
 ## Testing 
 
 
