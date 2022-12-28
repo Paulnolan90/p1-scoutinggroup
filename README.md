@@ -9,7 +9,7 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    1. [Site Owner objectives](#owner-objectives)
+    1. [Owner objectives](#owner-objectives)
     2. [User objectives](#user-objectives)
 2. [User Experience](#user-experience)
     1. [First time users](#first-time-users)
@@ -52,7 +52,7 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 - See a full list of age groups within the troop.
 - Find information about what those groups do.
 - Find the location of the scout den.
-- submit a form for with their details.
+- submit a form with their details.
 
 
 
@@ -90,7 +90,7 @@ The Website contains 3 pages with 8 features
 
 ![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
-- __Home page big imagee__
+- __Home page big image__
 
   - The home page displays an image of mountains, with an overlay of the Irish scouting logo with “115th Ballinteer” and “expect the unexpected!” text appearing slowly to grab the user’s attention.
   - This image introduces the user to Ballinteer scouts with an animated image that zooms slowly away and fades in the text.
@@ -139,6 +139,23 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features to Implement
 
 - COME BACK TO THIS
+
+## Technologies Used
+### Languages
+
+- HTML
+- CSS
+
+### Frameworks & Tools
+
+- Git
+- GitHub
+- Font awesome
+- Google Fonts
+- Git
+- Canva palette generator
+- GIMP image editing software
+
 ## Testing 
 
 
