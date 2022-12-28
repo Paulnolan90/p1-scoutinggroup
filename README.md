@@ -33,7 +33,6 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -226,7 +225,7 @@ The webiste has 3 pages:
     <img src="docs/Valid/Validation/signupspeed.jpg">
     </details>
 
-## Different devices
+## Different Devices
 
 The website was tested on the following devices:
 
@@ -242,9 +241,12 @@ the website was run successfully on the following browsers:
 - Opera
 - Microsoft Edge
 
-### Unfixed Bugs
+### Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+Submit button on sign up page was not contrasting enough with the background according to Wave testing so font color was changed.
+Retest was done and all clear.
+
+The form that I built does not send information to anyone as this would require further knowledge that is later in the course.
 
 ## Deployment
 
