@@ -52,9 +52,12 @@ h2 {
 h3{
     font-family: Roboto, sans-serif;
     letter-spacing: 4px;
-    color: #252525;
+    color: white;
     font-size: x-large;
     text-shadow: 2px 2px #030303;
+}
+h4 {
+    color: white;
 }
 h5{
     font-family: Roboto, sans-serif;
