@@ -455,9 +455,7 @@ to{
         height: 2500px
       }
       header {
-          
-        height: 40px;
-        
+        height: 55px;
       }
 }
 
@@ -573,7 +571,7 @@ to{
 
 
    
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 470px) {
         #logo{
            font-size: small;
         }
@@ -581,14 +579,14 @@ to{
             text-shadow: revert;
          }
          header {
-            height: 55px;
-         }
+            height: 65px;
+          }
          #menu a{
             font-size: x-small;            
         }
         #logo{
             text-align: left;
-            width: 100%;
+            width: 70%;
             padding-left: 1%;
             padding-top: 2%;
         }
