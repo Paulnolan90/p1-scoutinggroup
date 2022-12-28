@@ -12,8 +12,9 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     1. [Site Owner objectives](#owner-objectives)
     2. [User objectives](#user-objectives)
 2. [User Experience](#user-experience)
-    1. [First time users](#first-time-users )
-    2. [Target Audience](#target-audience)
+    1. [First time users](#first-time-users)
+    2. [Returning Users](#returning-users)
+    3. [Target Audience](#target-audience)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -60,6 +61,13 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 3. First time users should be able to find our location.
 4. First time users should be able to see which group meets at which time.
 5. First time users should be able to fill in a form with their details for a callback from leaders.
+
+### Returning Users
+1. Returning users should be able to find the location of the scout den.
+2. Returning users should be able to check the times that their group meets at.
+3. Returning users should be able to check the day that their group meets at.
+
+ 
 
 ### Target Audience
 - People looking for something new for their kids that isnt sport.
