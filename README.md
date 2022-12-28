@@ -182,7 +182,7 @@ The webiste has 3 pages:
 ## Testing 
 
 <details><summary>Home</summary>
-    <img src="docs/indexvalid.jpg">
+    <img src="/workspace/p1-scoutinggroup/docs/Valid/Validation/indexvalid.jpg">
     </details>
 
 
