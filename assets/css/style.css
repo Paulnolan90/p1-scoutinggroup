@@ -7,6 +7,25 @@ body{
     margin: 0;
 }
 
+.nav-links li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 25px;
+    letter-spacing: 4px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: inherit;
+    font-size: large;
+    color: #252525;
+    
+}
+.nav-links a:hover{
+    border-bottom: 2px solid #433d3d;
+    border-top: 2px solid #433d3d;
+    color: #252525;
+}
 /*headings and logos*/
 header {
     position: sticky;
@@ -50,34 +69,6 @@ h5{
     width: 25%;
     text-align: center;
 }
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-    margin-top: 25px;
-    letter-spacing: 4px;
-}
-#menu a{
-    text-decoration: none;
-    color: inherit;
-    font-size: large;
-    
-}
-#menu a:hover{
-    border-bottom: 2px solid #433d3d;
-    border-top: 2px solid #433d3d;
-    color: #252525;
-}
-.active {
-    border-bottom: 1px solid #3a3a3a;
-}
-
-
-
-
-
-
 
 /*Main image*/
 
@@ -607,4 +598,75 @@ to{
 
    
 
- 
+ /*   test for nav hamburger  */
+
+ .checkbtn {
+    font-size: 30px;
+    color: #1b0b54;
+    float: right;
+    line-height: 80px;
+    display:none;
+}
+#check {
+    display:none;
+}
+.visually-hidden {
+    border:0;
+    padding: 0;
+    margin: 0;
+    position: absolute !important;
+    height:1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect (1px, 1px, 1px,1px);
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+
+@media (max-width: 900px) {
+    /*nav bar*/
+    .checkbtn {
+        display:block
+    }
+    .nav-links{
+        position: fixed;
+        width: 75%;
+        height: 100vh;
+        background: #C5AFA0;
+        top: 80px;
+        left: -110%;
+        transition: all 1s;
+        z-index: 1000;
+        letter-spacing: 4px;
+        }
+    .nav-links li {
+        display: block;
+        line-height: 30px;
+    }
+    .nav-links li a {
+        font-size: 20px;
+        text-decoration: none;
+        color:#29524A;
+        border-bottom: 1px solid #3a3a3a;
+        letter-spacing: 4px;
+    }
+
+    a:hover {
+        background: none;
+        color:#252525;
+        border-top: 1px solid #3a3a3a;
+    }
+    .header-cta {
+        display: none;
+    }
+    /* ss live page */
+    .ss-live-row {
+        flex-direction: column;
+    }
+    #check:checked ~ ul {
+        left:0;
+    }
+
+    
+}
