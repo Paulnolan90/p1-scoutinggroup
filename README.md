@@ -194,6 +194,27 @@ The webiste has 3 pages:
     <img src="docs/Valid/Validation/signupvalid.jpg">
     </details>
 
+### CSS Validation 
+
+<details><summary>CSS</summary>
+    <img src="docs/Valid/Validation/cssvalid.jpg">
+    </details>
+
+### Accessibility
+
+<details><summary>Home</summary>
+    <img src="docs/Valid/Validation/indexAccessibility.jpg">
+    </details>
+
+<details><summary>Find Us</summary>
+    <img src="docs/Valid/Validation/findusaccess.jpg">
+    </details>
+
+<details><summary>Sign up</summary>
+    <img src="docs/Valid/Validation/signupaccess.jpg">
+    </details>
+
+
 ### Validator Testing 
 
 - HTML
