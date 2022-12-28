@@ -9,8 +9,8 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    1. [Site Owner Goals](#site-owner-goals)
-    2. [User Goals](#user-goals)
+    1. [Site Owner objectives](#owner-objectives)
+    2. [User objectives](#user-objectives)
 2. [User Experience](#user-experience)
     1. [First time users](#first-time-users )
     2. [Target Audience](#target-audience)
@@ -38,13 +38,13 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 
 ## Project Goals 
 
-### Site Owner Goals
+### Owner objectives
 - Increase awarness of a scout group in Ballinteer.
 - Make it easier to share information with parents.
 - Provide a way for new parents to contact the group.
 - Provide information to new parents/kids on what we do.
 
-### User Goals
+### User objectives
 - Finding a scout group for their child.
 - See a full list of age groups within the troop.
 - Find information about what those groups do.
