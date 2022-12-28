@@ -41,7 +41,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color:#C5AFA0;
-    text-shadow: 2px 2px #030303;
+    
 }
 h2 {
     font-family: Roboto, sans-serif;
@@ -68,6 +68,7 @@ h5{
     float: left;
     width: 25%;
     text-align: center;
+    color: black;
 }
 
 /*Main image*/
