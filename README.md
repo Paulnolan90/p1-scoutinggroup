@@ -182,7 +182,7 @@ The webiste has 3 pages:
 ## Testing 
 
 <details><summary>Home</summary>
-    <img src="docs/validation/indexvalid.jpg">
+    <img src="docs/indexvalid.jpg">
     </details>
 
 
