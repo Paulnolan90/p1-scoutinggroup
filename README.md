@@ -26,7 +26,7 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
-6. [Testing](#validation)
+6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
@@ -181,7 +181,9 @@ The webiste has 3 pages:
 
 ## Testing 
 
-
+<details><summary>Home</summary>
+    <img src="docs/validation/indexvalid.jpg">
+    </details>
 
 
 ### Validator Testing 
