@@ -20,7 +20,6 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -54,6 +53,12 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 - Provide information to new parents/kids on what we do.
 
 ## User Experience
+### First Time users 
+1. First time users should be able to understand that we are a scout group located in Ballinteer.
+2. First time users should be able to find what age groups we look after.
+3. First time users should be able to find our location.
+4. First time users should be able to see which group meets at which time.
+5. First time users should be able to fill in a form with their details for a callback from leaders.
 
 ### Target Audience
 - People looking for something new for their kids that isnt sport.
@@ -122,17 +127,11 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- COME BACK TO THIS
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
