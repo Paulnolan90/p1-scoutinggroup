@@ -41,24 +41,24 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
 ## Project Goals 
 
 ### User Goals
-- Finding a restaurant that offers a nice atmosphere and good food.
-- See a full menu with clear pricing.
-- Find information about the restaurant.
-- Find the location of the restaurant
+- Finding a scout group for their child.
+- See a full list of age groups within the troop.
+- Find information about what those groups do.
+- Find the location of the scout den.
+- submit a form for with their details.
 
 ### Site Owner Goals
-- Increase in the number of customers.
-- Promote the bussines.
-- Provide a way for new and existing customers to contact the buissnes.
-- Provide essential information about the bussines to customers.
+- Increase awarness of a scout group in Ballinteer.
+- Make it easier to share information with parents.
+- Provide a way for new parents to contact the group.
+- Provide information to new parents/kids on what we do.
 
 ## User Experience
 
 ### Target Audience
-- People looking for a place to dine at
-- People looking to order take away
-- Groups of people looking for a place to carter a event
-- Small to medium wedding parties
+- People looking for something new for their kids that isnt sport.
+- People looking to find information on ballinteer scouts.
+- People trying to find our location.
 
 ## Features 
 
