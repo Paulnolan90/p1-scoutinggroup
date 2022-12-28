@@ -214,6 +214,17 @@ The webiste has 3 pages:
     <img src="docs/Valid/Validation/signupaccess.jpg">
     </details>
 
+### Performance
+
+<details><summary>Home</summary>
+    <img src="docs/Valid/Validation/indexspeed.jpg">
+    </details>
+<details><summary>Find Us</summary>
+    <img src="docs/Valid/Validation/findusspeed.jpg">
+    </details>
+<details><summary>Sign Up</summary>
+    <img src="docs/Valid/Validation/signupspeed.jpg">
+    </details>
 
 ### Validator Testing 
 
