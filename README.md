@@ -186,6 +186,13 @@ The webiste has 3 pages:
     <img src="docs/Valid/Validation/indexvalid.jpg">
     </details>
 
+<details><summary>Find Us</summary>
+    <img src="docs/Valid/Validation/findusvalid.jpg">
+    </details>
+
+<details><summary>Sign up</summary>
+    <img src="docs/Valid/Validation/signupvalid.jpg">
+    </details>
 
 ### Validator Testing 
 
