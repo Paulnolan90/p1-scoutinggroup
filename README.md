@@ -17,7 +17,6 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     3. [Target Audience](#target-audience)
 3. [Features](#features)
     1. [Existing Features](#existing-features)
-    2. [Features to Implement](#features-to-implement)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-and-tools)
@@ -138,9 +137,6 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features to Implement
-
-- COME BACK TO THIS
 
 ## Technologies Used
 ### Languages
