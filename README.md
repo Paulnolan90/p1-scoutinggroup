@@ -250,14 +250,15 @@ The form that I built on the sign-up page does not send information to anyone as
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+The website was deployed using Github pages.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+How to: 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+  - In Github login and go to the correct repo. go into its settings.
+  - Once in settings go to the "pages" page.
+  - Select "Deploy from Branch".
+  - Select "Main" and "root" in the branch options below.
+  - After a few minutes you will get a message saying "Your site is live at https://paulnolan90.github.io/p1-scoutinggroup/"
 
 
 ## Credits 
