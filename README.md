@@ -181,6 +181,7 @@ The webiste has 3 pages:
 
 ## Testing 
 
+### HTML Validation 
 <details><summary>Home</summary>
     <img src="docs/Valid/Validation/indexvalid.jpg">
     </details>
