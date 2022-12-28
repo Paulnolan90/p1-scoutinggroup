@@ -20,7 +20,7 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     2. [Features to Implement](#features-to-implement)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks-and-tools)
 5. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -146,7 +146,7 @@ In addition, you may also use this section to discuss plans for additional featu
 - HTML
 - CSS
 
-### Frameworks & Tools
+### Frameworks and Tools
 
 - Git
 - GitHub
