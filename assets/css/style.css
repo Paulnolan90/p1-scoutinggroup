@@ -456,7 +456,7 @@ to{
       }
       header {
           
-        height: 50px;
+        height: 40px;
         
       }
 }
@@ -573,7 +573,7 @@ to{
 
 
    
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
         #logo{
            font-size: small;
         }
@@ -604,8 +604,9 @@ to{
     font-size: 30px;
     color: #1b0b54;
     float: right;
-    line-height: 80px;
+    line-height:80px;
     display:none;
+    padding-right: 1%;
 }
 #check {
     display:none;
@@ -628,6 +629,7 @@ to{
     /*nav bar*/
     .checkbtn {
         display:block
+
     }
     .nav-links{
         position: fixed;
@@ -642,7 +644,10 @@ to{
         }
     .nav-links li {
         display: block;
-        line-height: 30px;
+        line-height: 20px;
+        float: left;
+        
+        
     }
     .nav-links li a {
         font-size: 20px;
@@ -669,4 +674,11 @@ to{
     }
 
     
+}
+@media (max-width: 500px) {
+
+    .nav-links li a {
+        font-size: 20px;
+    }
+
 }
