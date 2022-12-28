@@ -246,7 +246,7 @@ the website was run successfully on the following browsers:
 Submit button on sign up page was not contrasting enough with the background according to Wave testing so font color was changed.
 Retest was done and all clear.
 
-The form that I built does not send information to anyone as this would require further knowledge that is later in the course.
+The form that I built on the sign-up page does not send information to anyone as this would require further knowledge that is later in the course.
 
 ## Deployment
 
@@ -262,15 +262,22 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+Any images not mentioned below were my own images editited in GIMP.
+### Media
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+In order of appearance:
+- Two beavers looking scruffy having fun - https://www.scouts.ie/what-we-do/beaver-scouts
+- Cub in uniform smiling - https://www.scouts.ie/what-we-do/cub-scouts
+- Scouts celebrating in uniform - https://www.scouts.ie/what-we-do/scouts
+- Venture scouts talking in field - https://www.scouts.ie/what-we-do/venture-scouts
+
+
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The text for the Home page Our Groups section was taken from [Scouting Ireland](https://www.scouts.ie)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The form page was inspired by the Love Running task done with [Code Institute](https://codeinstitute.net/ie/)
 
 ### Media
 
