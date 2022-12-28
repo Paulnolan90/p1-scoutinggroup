@@ -276,7 +276,9 @@ In order of appearance:
 In order of appearance:
 - For the text fading in i read through and implemented this tutrial [HubSpot](https://blog.hubspot.com/website/css-fade-in#text-transition)
 - To add the google map to my Find us page I read through this tutorial [Uni of Maine](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
-- For the sign up form I rewatched the tutorial Love Running done by Code institute. [Code Institute](https://code-institute-org.github.io/love-running-2.0/index.html)
+- For the sign up form I rewatched the tutorial Love Running done by Code institute. I also reused the CSS to zoom out the main image, but I reversed this as it suited my image more [Code Institute](https://code-institute-org.github.io/love-running-2.0/index.html)
+- To make and add the Favicon  I went through this tutorial [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html)
+
 
 ### Content 
 
