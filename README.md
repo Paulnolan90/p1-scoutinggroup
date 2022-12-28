@@ -266,10 +266,10 @@ Any images not mentioned below were my own images editited in GIMP.
 ### Media
 
 In order of appearance:
-- Two beavers looking scruffy having fun - https://www.scouts.ie/what-we-do/beaver-scouts
-- Cub in uniform smiling - https://www.scouts.ie/what-we-do/cub-scouts
-- Scouts celebrating in uniform - https://www.scouts.ie/what-we-do/scouts
-- Venture scouts talking in field - https://www.scouts.ie/what-we-do/venture-scouts
+- Two beavers looking scruffy having fun - [Scouting Ireland Beaver page](https://www.scouts.ie/what-we-do/beaver-scouts)
+- Cub in uniform smiling - [Scouting Ireland Cub page](https://www.scouts.ie/what-we-do/cub-scouts)
+- Scouts celebrating in uniform - [Scouting Ireland Scout page](https://www.scouts.ie/what-we-do/scouts)
+- Venture scouts talking in field - [Scouting Ireland Venture page](https://www.scouts.ie/what-we-do/venture-scouts)
 
 ### Code
 
