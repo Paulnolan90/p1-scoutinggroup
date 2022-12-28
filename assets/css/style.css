@@ -13,25 +13,26 @@ body{
     margin-right: 30px;
     margin-top: 25px;
     letter-spacing: 4px;
+    color:#C5AFA0;  
 }
 .nav-links a{
     text-decoration: none;
     color: inherit;
     font-size: large;
-    color: #252525;
+    color:#C5AFA0;  
     
 }
 .nav-links a:hover{
-    border-bottom: 2px solid #433d3d;
-    border-top: 2px solid #433d3d;
-    color: #252525;
+    border-bottom: 2px solid #C5AFA0;
+    border-top: 2px solid #C5AFA0;
+    color: white;
 }
 /*headings and logos*/
 header {
     position: sticky;
     top: 0;
     z-index: 999;
-    background-color: white;
+    background-color: #29524A;
     height: 100px;
     width: 100%;
   }
@@ -71,7 +72,7 @@ h5{
     float: left;
     width: 25%;
     text-align: center;
-    color: black;
+    color: #C5AFA0;
 }
 
 /*Main image*/
@@ -649,9 +650,7 @@ to{
     .nav-links li {
         display: block;
         line-height: 20px;
-        float: left;
-        
-        
+        float: left;        
     }
     .nav-links li a {
         font-size: 20px;
