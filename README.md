@@ -230,17 +230,17 @@ The webiste has 3 pages:
 
 The website was tested on the following devices:
 
--Dell Optiplex 7080
--Huawei P30 pro
--Apple Ipad A13
+- Dell Optiplex 7080
+- Huawei P30 pro
+- Apple Ipad A13
 
 ## Browser Compatability
 
 the website was run successfully on the following browsers:
 
--Google Chrome
--Opera
--Microsoft Edge
+- Google Chrome
+- Opera
+- Microsoft Edge
 
 ### Unfixed Bugs
 
