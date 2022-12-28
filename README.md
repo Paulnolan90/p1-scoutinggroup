@@ -15,15 +15,17 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     1. [First time users](#first-time-users)
     2. [Returning Users](#returning-users)
     3. [Target Audience](#target-audience)
-3. [Design](#design)
+3. [Features](#features)
+    1. [Existing Features](#existing-features)
+    2. [Features to Implement](#features-to-implement)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
-4. [Technologies Used](#technologies-used)
-    1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
-5. [Features](#features)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -134,10 +136,9 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features Left to Implement
+### Features to Implement
 
 - COME BACK TO THIS
-
 ## Testing 
 
 
