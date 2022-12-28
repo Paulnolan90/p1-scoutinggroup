@@ -226,12 +226,21 @@ The webiste has 3 pages:
     <img src="docs/Valid/Validation/signupspeed.jpg">
     </details>
 
-### Validator Testing 
+## Different devices
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+The website was tested on the following devices:
+
+-Dell Optiplex 7080
+-Huawei P30 pro
+-Apple Ipad A13
+
+## Browser Compatability
+
+the website was run successfully on the following browsers:
+
+-Google Chrome
+-Opera
+-Microsoft Edge
 
 ### Unfixed Bugs
 
