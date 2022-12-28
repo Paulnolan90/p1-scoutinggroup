@@ -12,7 +12,7 @@ Ballinteer scouts is a website that aims to help people/parents of children get 
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
-    1. [User Stories](#user-stories)
+    1. [First time users](#first-time-users)
     2. [Target Audience](#target-audience)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
